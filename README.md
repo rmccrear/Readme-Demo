@@ -7,6 +7,16 @@
   This is a demo website for Southern Fried Chicken. It has three pages, home, about, and menu. It features a table with fictitious prices, and a list of fictitous contact information. It also includes images on each page.
 </p>
 
+<h2> Wireframe </h2>
+
+<p> The plan for the website without CSS is based on this wirefram from Canva.co.</p>
+
+<img title="Wireframe for site without CSS." src="docs/html-without-css.png">
+
+<p> The plan for the website with CSS is based on this wirefram from Canva.co.</p>
+
+<img title="Wireframe for site with CSS." src="docs/html-with-css.png">
+
 <h2>Technology used</h2>
 
 <p>
