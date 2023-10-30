@@ -49,6 +49,6 @@
     Hero Image: https://imagekit.io/blog/css-image-overlay/
   </li>
   <li>
-    
+    Making a Navbar with a ul: https://www.w3schools.com/css/css_navbar.asp
   </li>
 </ul>
